@@ -1,0 +1,6 @@
+framework module Pods_yurisnsd {
+  umbrella header "Pods-yurisnsd-umbrella.h"
+
+  export *
+  module * { export * }
+}
